@@ -1,0 +1,16 @@
+Name,Specific Strength (MPa),Specific Modulus (GPa),Corosion Resistance,Cost Category
+AISI 1020,35.9,26.9,1,5
+AISI 1040,51.3,26.9,1,5
+ASTM A242 type 1,42.3,27.2,1,5
+AISI 4130,194.9,27.2,4,3
+AISI 316,25.6,25.1,4,3
+AISI 416 heat treated,57.1,28.1,4,3
+AISI 431 heat treated,71.4,28.1,4,3
+AA 6061 T6,101.9,25.8,3,4
+AA 2024 T6,141.9,26.1,3,4
+AA 2014 T6,148.2,25.8,3,4
+AA 7075 T6,180.4,25.9,3,4
+Ti-6Al-4V,208.7,27.6,5,1
+Epoxy-70% glass fabric,604.8,28,4,2
+Epoxy-63% carbon fabric,416.2,66.5,4,1
+Epoxy-62% aramid fabric,637.7,27.5,4,1
